@@ -1,27 +1,13 @@
 # Sample01_Public
-Name
+このリポジトリで、フォーラムを実現する検証
 ====
 
 Overview
 
-## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
+## このリポジトリは、フォーラムを実現するために作成したものである
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+M.Miyamoto
 
 ## Author
-
-[tcnksm](https://github.com/tcnksm)
